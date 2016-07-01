@@ -1,5 +1,5 @@
 # Tanks Game
-A 2D network tanks game, with several kind of tanks, bonus and bots.
+A 2D network tank game, with several type of tanks, bonuses and bots.
 
 ## Compilation
 Extract all files of the zip archive, move into the game folder and execute make.
