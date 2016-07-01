@@ -12,6 +12,7 @@ Go into the game folder and execute :
 ```
 
 number_of_players : an integer meaning the number of players for the game
+
 enable_fog : 1 to enable fog
 
 ### Gamer
