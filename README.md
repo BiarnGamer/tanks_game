@@ -15,13 +15,15 @@ number_of_players : an integer meaning the number of players for the game
 
 enable_fog : 1 to enable fog
 
-### Gamer
+### Players
 Go into the game folder and execute :
 ```
 ./tank ip_server
 ```
 
 ip_server : ip address or name of the game server
+
+Note : the server must be running.
 
 ### Bot
 A bot is a computer controlled gamer. Go into the game folder and execute :
@@ -30,3 +32,5 @@ A bot is a computer controlled gamer. Go into the game folder and execute :
 ```
 
 ip_server : ip address or name of the game server
+
+Note : the server must be running.
