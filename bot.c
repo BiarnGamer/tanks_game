@@ -11,7 +11,7 @@
 #define MAP "data/map.bmp"
 #include <time.h>
 
-  
+
 
 /**
  Le bot choisi une cible  :
